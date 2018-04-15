@@ -23,7 +23,6 @@ alias ls='ls -G'
 alias la='ls -la'
 alias artisan='php artisan'
 alias dartisan='docker-compose exec app php artisan'
-source ~/.autofact_aliases
 
 #-------------------------
 # Completion.
